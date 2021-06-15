@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background: rgb(209, 142, 15);
+  background:rgb(38, 49, 148);
+  font-family: "Poppins";
+}
+.formulario {
+  min-height: 100vh;
+}
+h2 {
+  border-bottom: 1px solid rgb(247, 243, 243);
+}
+
+label {
+  margin-top: 20px;
+}
+small {
+  font-size: 12px;
+}
+.btn {
+  margin-top: 20px;
+  border: 1px solid #fff;
+
+}
+
+.btn:hover {
+  color: rgb(18, 32, 112);
+  background-color: rgba(252, 248, 248, 0.336);
+}
