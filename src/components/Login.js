@@ -16,12 +16,12 @@ const Login = () => {
             />
           </div>
           <div className="col-8">
-            <label htmlFor="passwordlog">Password</label>
+            <label htmlFor="password">Password</label>
             <input
               type="password"
               className="nombre form-control"
-              id="passwordlog"
-              placeholder="123456789"
+              id="password"
+              placeholder="pon tu password"
               required
             />
            
